@@ -1,12 +1,12 @@
 {
   "author": "Jim Hoskins <jim@jimhoskins.com> (http://jimhoskins.com)",
-  "name": "bootstrapify",
+  "name": "bootstrapjs",
   "description": "Bootstrap JS for Node",
   "version": "2.0.0",
-  "homepage": "http://github.com/jimrhoskins/bootstrapify",
+  "homepage": "http://github.com/jimrhoskins/bootstrapjs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jimrhoskins/bootstrapify.git"
+    "url": "git://github.com/jimrhoskins/bootstrapjs.git"
   },
   "main": "index.js",
   "engines": {

@@ -1,5 +1,5 @@
-# Bootstrapify
-Bootstrapify is a port of the [Bootstrap JS](http://bootstrap.io) JavaScript
+# BootstrapJS
+BootstrapJS is a port of the [Bootstrap JS](http://bootstrap.io) JavaScript
 library for use with [jqueryify](http://github.com/maccman/jqueryify).
 
 
